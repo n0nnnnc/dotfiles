@@ -3,5 +3,6 @@
 
 ## Create symlinks:
 ```
-ln -s ~/.dotfiles/.hyper.js ~/.hyper.js
+ln -s ~/dotfiles/.hyper.js ~/.hyper.js
+ln -s ~/dotfiles/.zshrc ~/.zshrc
 ```
