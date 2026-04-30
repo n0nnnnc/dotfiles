@@ -37,7 +37,7 @@ module.exports = {
         // border color (window, tabs)
         borderColor: '',
         // custom CSS to embed in the main window
-        css: '',
+        css: '.tab_firstActive {border-left-width: 0px;}',
         // custom CSS to embed in the terminal window
         termCSS: '',
         // set custom startup directory (must be an absolute path)
